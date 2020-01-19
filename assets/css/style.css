@@ -1,0 +1,67 @@
+html {
+	background: #ffe699;
+	background-image: url("../img/oski.png");
+	background-repeat: repeat;
+}
+
+#header, #footer {
+	text-align: center;
+	width: 50vw;
+	margin: auto;
+}
+
+#questions {
+	font-size: 1.2em;
+	list-style-position: inside;
+}
+
+#score {
+	display: none;
+	text-align: center;
+	margin-bottom: 50vh;
+}
+
+#score-h1 {
+	color: red;
+	font-size: 3em;
+	margin: 0;
+}
+
+#terms {
+	margin-left: 25px;
+	display: none;
+}
+
+#terms h3 {
+	margin: 0;
+}
+
+#footer {
+	margin-top: 50px;
+}
+
+input {
+	transform: scale(1.2);
+}
+
+@media all and (max-width: 996px) {
+	body {
+		font-size: 1.5em;
+	}
+
+	#questions {
+		margin-right: 15px;
+	}
+
+	#submit {
+		font-size: 1em;
+	}
+
+	#header, #footer {
+		width: 90vw;
+	}
+	
+	input {
+		transform: scale(1.5);
+	}
+}

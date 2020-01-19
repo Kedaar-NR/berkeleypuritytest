@@ -1,0 +1,4 @@
+{
+	"Number of submissions": "SELECT COUNT(*) FROM responses;",
+	"Average score": "SELECT AVG(score) FROM responses;"
+}

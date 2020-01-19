@@ -1,0 +1,23 @@
+html {
+	background: #ffe699;
+	background-image: url("../img/oski.png");
+	background-repeat: repeat;
+}
+
+body {
+	padding-left: 50px;
+}
+
+form {
+	text-align: center;
+}
+
+input {
+	display: block;
+	border: 1px solid gray;
+	padding: 10px;
+	border-radius: 5px;
+	font-size: 1.2em;
+	margin: auto;
+	margin-bottom: 10px;
+}
