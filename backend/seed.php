@@ -5,7 +5,7 @@ require_once('./conf.ini.php');
 $sql = "CREATE TABLE responses (";
 for ($index = 0; $index < 100; $index ++) {
 	$sql .= "q$index INT(1)";
-	$sql .= ($index == 99) ? ", score INT(3));" : ", ";
+	$sql .= ($index == 99) ? ", score INT(3), ip VARCHAR(255));" : ", ";
 }
 
 mysqli_query($connection, $sql);
