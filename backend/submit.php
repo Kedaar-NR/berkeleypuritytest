@@ -11,7 +11,7 @@ $score = $_POST['score'];
 $sql = "INSERT INTO responses VALUES (";
 foreach ($data as $index => $checked) {
 	$sql .= $checked;
-	$sql .= ($index == 99) ? ", $score, $ip);" : ", ";
+	$sql .= ($index == 99) ? ", $score, '$ip');" : ", ";
 }
 mysqli_query($connection, $sql);
 ?>
