@@ -12,7 +12,10 @@ html {
 
 #questions {
 	font-size: 1.2em;
-	list-style-position: inside;
+}
+
+#questions-ol {
+	margin-left: 1em;
 }
 
 #score {
