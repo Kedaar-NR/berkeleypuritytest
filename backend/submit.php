@@ -14,6 +14,7 @@ if ($score <= 0 || $score > 100) {
 	die();
 }
 
+$sum = 100;
 $sql = "INSERT INTO responses VALUES (";
 foreach ($data as $index => $checked) {
 	// Make sure the data is sanitized
@@ -21,8 +22,15 @@ foreach ($data as $index => $checked) {
 		die();
 	}
 
+	$sum -= $checked;
+
 	$sql .= $checked;
 	$sql .= ($index == 99) ? ", $score, '$ip');" : ", ";
 }
+
+if ($sum != $score) {
+	die();
+}
+
 mysqli_query($connection, $sql);
 ?>
