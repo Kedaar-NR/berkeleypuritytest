@@ -7,7 +7,7 @@
 		<link rel="shortcut icon" href="./favicon.ico" />
 
 		<!-- meta tags -->
-		<meta name="description" content='The Berkeley Purity Test is an unofficial purity test designed to satirize the "ideal" experience of a student at UC Berkeley, inspired by the Rice Purity Test. This website does not condone illegal activities, and it is strongly recommended that you do not aim to complete every item on this list.' />
+		<meta name="description" content='The Berkeley Purity Test is an unofficial purity test designed to satirize the "ideal" experience of a student at UC Berkeley, inspired by the Rice Purity Test. This website does not condone illegal activities, and it is STRONGLY recommended that you do not aim to complete every item on this list.' />
 		<meta name="copyright"content="Berkeley Purity Test">
 		<meta name="url" content="https://berkeleypuritytest.com">
 	</head>

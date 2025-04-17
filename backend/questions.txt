@@ -1,21 +1,21 @@
-Ordered something from Kiwibot?
-Harassed/kidnapped a Kiwibot?
-Defecated on the ground?
+Been trapped in Dwinelle?
 Failed a class?
 Skipped a final?
-Used your late action?
 Dropped or changed the grading option of a class directly after the first midterm?
 Passed a class with an 8AM lecture time?
 Changed your major?
 Stepped on a seal?
 Been rejected from a club?
+Been rejected from that club twice or more?
+Handed our your resume at a career fair?
 Handed out flyers or tabled at Sproul Plaza?
 Went to a career fair for the free stuff?
 Rolled down faculty glade?
 Studied abroad?
-Run into Carol Christ on campus?
+Run into Rich Lyons on campus?
 Taken CS 61A with John DeNero?
 Declared computer science as your major?
+Pushed studying for a midterm/final to the day before?
 Changed your (intended) major from computer science to something else?
 Befriended someone just because they excel at academics (and you needed their help)?
 Did your classmate's in-class participation for them (such as iClicker) because they ditched class?
@@ -34,9 +34,15 @@ Spent $100 on boba milk tea within a month?
 Drank at least 1 boba milk tea for 30 consecutive days?
 Dropped/spilled a boba milk tea?
 Dropped your Hydroflask™ during lecture (consequently making a loud noise)?
+Pretended to be “stealth mode” just to cover for not having a startup yet?
 Walked through People's Park alone at night?
 Lost your AirPods or had them stolen?
 Stolen someone's AirPods?
+Used ChatGPT to write an entire essay and still got an A?
+Had an identity crisis walking out of an exam?
+Turned in a paper late and claimed you were "delirious"?
+Stayed in Moffitt until 3AM doing nothing but scrolling?
+Slept in a library?
 Committed an act of vandalism on university property?
 Committed an act of vandalism on the Stanford campus?
 Touched the Stanford Axe?
@@ -55,9 +61,6 @@ Cried at the Taco Bell on Durant?
 Cried at Evans?
 Lived in a campus building (other than a dorm) for 24 hours or more?
 Ridden a Boosted board or scooter?
-Had a confession approved and posted to Confessions from UC Berkeley on Facebook?
-Been featured on "Wholesome Wednesday" on Confessions from UC Berkeley on Facebook?
-Had a meme approved and posted to UC Berkeley Memes for Edgy Teens on Facebook?
 Violated the Code of Student Conduct?
 Been caught for violating the Code of Student Conduct?
 Participated in the Naked Run during dead week?
@@ -67,8 +70,6 @@ Used marijuana under the Campanile?
 Shotgunned a beer at the Campanile?
 Purchased alcohol under 21?
 Purchased alcohol for people under 21?
-Dated someone in AFX?
-Been part of the AFX sex cult?
 Been to the Tang Center to test for an STD?
 Been to the Tang Center to be diagnosed with depression or anxiety? 
 Been to the Tang Center and tested positive for an STD?
@@ -95,6 +96,5 @@ Had sexual intercourse in an academic building?
 Had sexual intercourse in a bathroom?
 Been walked in on while engaging in sexual intercourse?
 Walked in on someone engaging in sexual intercourse?
-Sexiled a roommate?
-Been sexiled by a roommate?
+Sexiled a roommate? Been sexiled by a roommate?
 Had sex in somebody else's dorm/room?
