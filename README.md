@@ -1,3 +1,5 @@
+https://berkeleypuritytest.com/
+
 # Berkeley Purity Test
 
 An interactive web application that provides a modern take on the classic purity test, specifically tailored for Berkeley students.
